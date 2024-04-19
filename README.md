@@ -1,11 +1,5 @@
-👋 Hi, I’m @GijsvdMunnik
+👋 Hoi, ik ben @GijsvdMunnik
 
-Een jonge gemotiveerde student met een groot hart voor techniek en software development. 
-Werkt graag met HTML, CSS, Javascript, PHP en SQL. 
-
-Op zoek naar een stageplaats waar veel valt te leren.
-
-<!---
-GijsvdMunnik/GijsvdMunnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ik ben een zeer gemotiveerde student op het Koning willem 1 college. 
+Mijn opleiding is Sofware development en ik zit nu in leerjaar 3. 
+Op deze github pagina laat ik u zien wat ik allemaal kan op het gebied van C#, python op de raspberry pi, PHP, wordpress en Unity.
